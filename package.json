@@ -1,19 +1,19 @@
 {
 	"name": "@lynxtaa/prettier-config",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"description": "Shared Prettier configuration",
-  "license": "MIT",
-  "author": "Alex Kondratyuk <lynxtaa@gmail.com>",
-  "repository": "https://github.com/lynxtaa/prettier-config.git",
-  "homepage": "https://github.com/lynxtaa/prettier-config#readme",
+	"license": "MIT",
+	"author": "Alex Kondratyuk <lynxtaa@gmail.com>",
+	"repository": "https://github.com/lynxtaa/prettier-config.git",
+	"homepage": "https://github.com/lynxtaa/prettier-config#readme",
 	"main": "index.js",
 	"files": [
 		"index.js"
 	],
-  "keywords": [
-    "prettier",
-    "config"
-  ],
+	"keywords": [
+		"prettier",
+		"config"
+	],
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
