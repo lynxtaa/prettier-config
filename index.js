@@ -1,0 +1,17 @@
+module.exports = {
+	printWidth: 90,
+	quoteProps: 'consistent',
+	semi: false,
+	singleQuote: true,
+	trailingComma: 'all',
+	useTabs: true,
+	arrowParens: 'avoid',
+	overrides: [
+		{
+			files: '*.md',
+			options: {
+				useTabs: false,
+			},
+		},
+	],
+}

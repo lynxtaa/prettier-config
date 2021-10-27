@@ -1,0 +1,21 @@
+{
+	"name": "@lynxtaa/prettier-config",
+	"version": "0.1.0",
+	"description": "Shared prettier configuration",
+  "author": "Alex Kondratyuk <lynxtaa@gmail.com>",
+	"main": "index.js",
+	"files": [
+		"index.js"
+	],
+  "keywords": [
+    "prettier",
+    "config"
+  ],
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "MIT",
+	"peerDependencies": {
+		"prettier": "^2.0.0"
+	}
+}
